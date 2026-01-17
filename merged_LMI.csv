@@ -1,0 +1,228 @@
+country,region,infant_mortality,maternal_mortality,life_expectancy
+Somalia,Africa,81.5,563,56.5
+Central African Republic,Africa,79.3,692,56.4
+Equatorial Guinea,Africa,76.9,174,63.9
+Sierra Leone,Africa,70.1,354,59.4
+Nigeria,Africa,65.6,993,62.2
+Niger,Africa,63,350,60.9
+Chad,Africa,61.1,748,60
+South Sudan,Africa,58.6,692,60.3
+Mozambique,Africa,56.7,82,58.3
+Mali,Africa,55.8,367,63.2
+"Congo, Democratic Republic of the",Africa,55.8,427,62.6
+Liberia,Africa,55.2,628,61.6
+Comoros,Africa,53.9,179,67.8
+Cote d'Ivoire,Africa,52.3,359,63.2
+Lesotho,Africa,52.2,478,60.2
+Benin,Africa,51.6,518,63
+Pakistan,South Asia,50.3,155,70.3
+Burkina Faso,Africa,48,242,64.2
+Angola,Africa,46.1,183,62.9
+Guinea,Africa,45.8,494,64.6
+Guinea-Bissau,Africa,45.1,505,64.5
+Cameroon,Africa,44.6,258,64.2
+Djibouti,Africa,44.3,162,65.9
+Yemen,Middle East,42.4,118,68.2
+Afghanistan,South Asia,42,521,54.4
+Timor-Leste,East and Southeast Asia,41.9,192,70.5
+Sao Tome and Principe,Africa,41.7,75,67.7
+Sudan,Africa,39.7,256,67.8
+Eritrea,Africa,39,291,67.5
+Madagascar,Africa,38.4,445,68.8
+Eswatini,Africa,38,118,60.7
+Burundi,Africa,35.3,392,68.1
+Haiti,Central America and the Caribbean,35,328,65.6
+"Gambia, The",Africa,35,354,68.4
+Turkmenistan,Central Asia,35,5,72.4
+Togo,Africa,34.5,349,72.1
+Laos,East and Southeast Asia,34.2,112,69
+Zimbabwe,Africa,32.8,358,67.2
+Papua New Guinea,East and Southeast Asia,31.3,189,70.1
+Ethiopia,Africa,31.3,195,67.7
+Kiribati,Australia and Oceania,30.8,80,68.5
+Burma,East and Southeast Asia,30.8,185,70.3
+Ghana,Africa,30.5,234,70.1
+India,South Asia,30.5,80,68.2
+Senegal,Africa,30.4,237,70.6
+Zambia,Africa,30.1,85,66.9
+Mauritania,Africa,29.9,381,65.9
+"Congo, Republic of the",Africa,29.9,241,72.9
+Suriname,South America,29.3,84,72.7
+Malawi,Africa,28.9,225,73
+Tanzania,Africa,28.4,276,70.8
+Botswana,Africa,27.8,155,66.4
+Uganda,Africa,27.5,170,69.7
+Rwanda,Africa,27.4,229,66.6
+Cambodia,East and Southeast Asia,27.2,137,71.4
+Tuvalu,Australia and Oceania,27.2,170,69
+Namibia,Africa,27.1,139,65.9
+Kenya,Africa,26.8,379,70.4
+Gabon,Africa,26,233,70.4
+Kyrgyzstan,Central Asia,24,42,72.9
+Maldives,South Asia,23.7,32,77.4
+Guatemala,Central America and the Caribbean,23.4,94,73.5
+Nepal,South Asia,23.4,142,73
+Bhutan,South Asia,23,47,73.7
+Bolivia,South America,22.1,146,72.5
+Bangladesh,South Asia,22,115,75.2
+Cabo Verde,Africa,21.9,40,74.3
+Paraguay,South America,21.4,58,78.8
+Kosovo,Europe,21,NA,73.1
+Georgia,Central Asia,20.9,20,72.8
+Dominican Republic,Central America and the Caribbean,20.8,124,72.6
+Guyana,South America,20.6,75,72.4
+"Micronesia, Federated States of",Australia and Oceania,20.4,129,75
+Tajikistan,Central Asia,20.3,14,71.9
+Marshall Islands,Australia and Oceania,20.1,155,75.2
+South Africa,Africa,19.7,118,71.9
+Solomon Islands,Australia and Oceania,18.6,123,77.2
+Algeria,Africa,18.6,62,77.9
+Indonesia,East and Southeast Asia,18.5,140,73.6
+Philippines,East and Southeast Asia,18.5,84,70.8
+Iraq,Middle East,18.3,66,73.7
+Turkey (Turkiye),Middle East,17.9,15,76.7
+Morocco,Africa,17.8,70,74.2
+Uzbekistan,Central Asia,17.6,26,76.2
+"Saint Helena, Ascension, and Tristan da Cunha",Africa,17.5,NA,80.9
+Samoa,Australia and Oceania,17.2,101,75.7
+Egypt,Africa,16.4,17,75
+Honduras,Central America and the Caribbean,15.4,47,73.1
+Barbados,Central America and the Caribbean,15.1,35,79
+Cook Islands,Australia and Oceania,14.8,0,77.6
+"Korea, North",East and Southeast Asia,14.7,67,73.5
+Syria,Middle East,14.7,20,74.8
+Trinidad and Tobago,Central America and the Caribbean,14.7,54,76.5
+Jamaica,Central America and the Caribbean,14.5,130,76.3
+Gaza Strip,Middle East,14.2,16,75.5
+West Bank,Middle East,14.2,16,76.5
+Nicaragua,Central America and the Caribbean,14.1,60,74.7
+Vietnam,East and Southeast Asia,13.8,48,76.1
+Oman,Middle East,13.6,13,77.4
+Venezuela,South America,13.6,227,74.5
+Moldova,Europe,13.5,19,70.1
+Vanuatu,Australia and Oceania,13.4,100,75.7
+Antigua and Barbuda,Central America and the Caribbean,13.3,35,78.3
+Panama,Central America and the Caribbean,13.2,37,79.2
+British Virgin Islands,Central America and the Caribbean,13,NA,80.1
+Jordan,Middle East,12.9,31,76.5
+Brazil,South America,12.7,67,76.3
+Mexico,North America,12.3,42,74.6
+Saint Vincent and the Grenadines,Central America and the Caribbean,12,56,77.2
+Northern Mariana Islands,Australia and Oceania,11.6,NA,77.1
+Colombia,South America,11.6,59,74.9
+Tonga,Australia and Oceania,11.5,67,78
+Saudi Arabia,Middle East,11.4,7,77.2
+Mauritius,Africa,11.4,66,75.4
+Saint Lucia,Central America and the Caribbean,11.3,44,79.4
+Armenia,Central Asia,11.3,19,76.7
+Belize,Central America and the Caribbean,11.3,67,74.3
+Aruba,Central America and the Caribbean,11.2,NA,78.5
+Ecuador,South America,11.2,55,74.9
+Turks and Caicos Islands,Central America and the Caribbean,10.8,NA,81.3
+Albania,Europe,10.8,7,79.9
+Azerbaijan,Central Asia,10.7,18,75.9
+Guam,Australia and Oceania,10.7,NA,78
+Tunisia,Africa,10.6,36,77.3
+Peru,South America,10.6,51,68.9
+Palau,Australia and Oceania,10.6,89,75.2
+Dominica,Central America and the Caribbean,10.5,36,78.7
+Libya,Africa,10.4,59,77.7
+Seychelles,Africa,10,42,76.6
+El Salvador,Central America and the Caribbean,10,39,75.9
+Brunei,East and Southeast Asia,9.8,36,78.9
+Iran,Middle East,9.7,16,75.6
+Bahrain,Middle East,9.6,17,80.4
+American Samoa,Australia and Oceania,9.5,NA,75.8
+Fiji,Australia and Oceania,9.4,30,74.8
+Montserrat,Central America and the Caribbean,9.4,NA,76.1
+"Bahamas, The",Central America and the Caribbean,9.2,76,76.7
+Grenada,Central America and the Caribbean,8.8,48,76.3
+Mongolia,East and Southeast Asia,8.6,41,71.9
+Ukraine,Europe,8.4,15,70.5
+Greenland,North America,8.3,NA,74.5
+Cyprus,Europe,7.9,14,80.2
+Kazakhstan,Central Asia,7.9,10,73.3
+Saint Kitts and Nevis,Central America and the Caribbean,7.9,74,77.6
+Saint Pierre and Miquelon,North America,7.6,NA,81.8
+Sint Maarten,Central America and the Caribbean,7.5,NA,79.7
+Bulgaria,Europe,7.5,6,76.1
+Nauru,Australia and Oceania,7.5,273,68.6
+Curacao,Central America and the Caribbean,7.4,NA,79.9
+Argentina,South America,7.4,33,78.8
+Lebanon,Middle East,7.3,15,79.2
+Virgin Islands,Central America and the Caribbean,7.2,NA,80.7
+Cayman Islands,Central America and the Caribbean,7.1,NA,82.5
+Kuwait,Middle East,7,8,79.6
+Uruguay,South America,6.9,15,78.9
+North Macedonia,Europe,6.8,3,77.3
+Sri Lanka,South Asia,6.8,18,76.8
+Russia,Central Asia,6.4,9,72.3
+Costa Rica,Central America and the Caribbean,6.3,24,80.3
+Saint Martin,Central America and the Caribbean,6.3,NA,81
+Malaysia,East and Southeast Asia,6.3,26,76.6
+Saint Barthelemy,Central America and the Caribbean,6.3,NA,81
+Thailand,East and Southeast Asia,6.2,34,78.2
+Qatar,Middle East,6.2,4,80.3
+San Marino,Europe,6.1,8,84.2
+China,East and Southeast Asia,6,16,78.7
+Gibraltar,Europe,5.9,NA,80.9
+Puerto Rico,Central America and the Caribbean,5.7,11,82.1
+Faroe Islands,Europe,5.6,NA,81.7
+Romania,Europe,5.3,12,76.9
+Cuba,Central America and the Caribbean,5.2,35,80.1
+United States,North America,5,17,80.9
+Slovakia,Europe,5,4,77.2
+United Arab Emirates,Middle East,4.9,3,79.9
+New Caledonia,Australia and Oceania,4.8,NA,79.3
+Poland,Europe,4.6,2,76.7
+Malta,Europe,4.6,8,83.6
+Hungary,Europe,4.6,12,76
+Chile,South America,4.5,10,80.3
+Serbia,Europe,4.4,11,75.3
+Macau,East and Southeast Asia,4.3,NA,85.3
+French Polynesia,Australia and Oceania,4.2,NA,78.9
+Isle of Man,Europe,4,NA,82.5
+Wallis and Futuna,Australia and Oceania,3.8,NA,81.1
+Canada,North America,3.8,12,84.2
+Bosnia and Herzegovina,Europe,3.8,6,78.5
+Taiwan,East and Southeast Asia,3.8,NA,81.6
+Liechtenstein,Europe,3.8,NA,83
+Jersey,Europe,3.7,NA,83
+United Kingdom,Europe,3.7,8,82.2
+Netherlands,Europe,3.6,4,81.9
+Croatia,Europe,3.4,3,77.7
+Greece,Europe,3.4,5,81.9
+New Zealand,Australia and Oceania,3.3,7,82.9
+Andorra,Europe,3.3,11,83.8
+Guernsey,Europe,3.2,NA,83.6
+Austria,Europe,3.2,6,82.7
+Ireland,Europe,3.2,4,82
+France,Europe,3.1,7,82.6
+Montenegro,Europe,3.1,6,78.2
+Luxembourg,Europe,3.1,12,83.4
+Denmark,Europe,3.1,4,82.1
+Australia,Australia and Oceania,3,2,83.5
+Switzerland,Europe,3,5,83.9
+Belgium,Europe,3,4,82.3
+Germany,Europe,3,4,81.9
+Italy,Europe,3,6,83
+Anguilla,Central America and the Caribbean,2.9,NA,82.6
+Israel,Middle East,2.6,2,83.1
+Lithuania,Europe,2.5,8,76.1
+Czechia,Europe,2.5,3,78.6
+Hong Kong,East and Southeast Asia,2.4,NA,84
+Portugal,Europe,2.4,15,81.9
+Spain,Europe,2.4,3,83
+Latvia,Europe,2.4,19,76.4
+Sweden,Europe,2.2,4,82.9
+"Korea, South",East and Southeast Asia,2.2,4,83.4
+Belarus,Europe,2.1,1,74.7
+Bermuda,North America,2.1,NA,82.5
+Estonia,Europe,2,5,78.4
+Finland,Europe,1.9,8,82.2
+Norway,Europe,1.8,1,82.9
+Japan,East and Southeast Asia,1.8,3,85.2
+Slovenia,Europe,1.8,3,82.2
+Monaco,Europe,1.7,5,89.8
+Iceland,Europe,1.6,3,84
+Singapore,East and Southeast Asia,1.5,6,86.7

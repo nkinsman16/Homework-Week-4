@@ -1,0 +1,682 @@
+country,region,indicator,value
+Somalia,Africa,infant_mortality,81.5
+Somalia,Africa,maternal_mortality,563
+Somalia,Africa,life_expectancy,56.5
+Central African Republic,Africa,infant_mortality,79.3
+Central African Republic,Africa,maternal_mortality,692
+Central African Republic,Africa,life_expectancy,56.4
+Equatorial Guinea,Africa,infant_mortality,76.9
+Equatorial Guinea,Africa,maternal_mortality,174
+Equatorial Guinea,Africa,life_expectancy,63.9
+Sierra Leone,Africa,infant_mortality,70.1
+Sierra Leone,Africa,maternal_mortality,354
+Sierra Leone,Africa,life_expectancy,59.4
+Nigeria,Africa,infant_mortality,65.6
+Nigeria,Africa,maternal_mortality,993
+Nigeria,Africa,life_expectancy,62.2
+Niger,Africa,infant_mortality,63
+Niger,Africa,maternal_mortality,350
+Niger,Africa,life_expectancy,60.9
+Chad,Africa,infant_mortality,61.1
+Chad,Africa,maternal_mortality,748
+Chad,Africa,life_expectancy,60
+South Sudan,Africa,infant_mortality,58.6
+South Sudan,Africa,maternal_mortality,692
+South Sudan,Africa,life_expectancy,60.3
+Mozambique,Africa,infant_mortality,56.7
+Mozambique,Africa,maternal_mortality,82
+Mozambique,Africa,life_expectancy,58.3
+Mali,Africa,infant_mortality,55.8
+Mali,Africa,maternal_mortality,367
+Mali,Africa,life_expectancy,63.2
+"Congo, Democratic Republic of the",Africa,infant_mortality,55.8
+"Congo, Democratic Republic of the",Africa,maternal_mortality,427
+"Congo, Democratic Republic of the",Africa,life_expectancy,62.6
+Liberia,Africa,infant_mortality,55.2
+Liberia,Africa,maternal_mortality,628
+Liberia,Africa,life_expectancy,61.6
+Comoros,Africa,infant_mortality,53.9
+Comoros,Africa,maternal_mortality,179
+Comoros,Africa,life_expectancy,67.8
+Cote d'Ivoire,Africa,infant_mortality,52.3
+Cote d'Ivoire,Africa,maternal_mortality,359
+Cote d'Ivoire,Africa,life_expectancy,63.2
+Lesotho,Africa,infant_mortality,52.2
+Lesotho,Africa,maternal_mortality,478
+Lesotho,Africa,life_expectancy,60.2
+Benin,Africa,infant_mortality,51.6
+Benin,Africa,maternal_mortality,518
+Benin,Africa,life_expectancy,63
+Pakistan,South Asia,infant_mortality,50.3
+Pakistan,South Asia,maternal_mortality,155
+Pakistan,South Asia,life_expectancy,70.3
+Burkina Faso,Africa,infant_mortality,48
+Burkina Faso,Africa,maternal_mortality,242
+Burkina Faso,Africa,life_expectancy,64.2
+Angola,Africa,infant_mortality,46.1
+Angola,Africa,maternal_mortality,183
+Angola,Africa,life_expectancy,62.9
+Guinea,Africa,infant_mortality,45.8
+Guinea,Africa,maternal_mortality,494
+Guinea,Africa,life_expectancy,64.6
+Guinea-Bissau,Africa,infant_mortality,45.1
+Guinea-Bissau,Africa,maternal_mortality,505
+Guinea-Bissau,Africa,life_expectancy,64.5
+Cameroon,Africa,infant_mortality,44.6
+Cameroon,Africa,maternal_mortality,258
+Cameroon,Africa,life_expectancy,64.2
+Djibouti,Africa,infant_mortality,44.3
+Djibouti,Africa,maternal_mortality,162
+Djibouti,Africa,life_expectancy,65.9
+Yemen,Middle East,infant_mortality,42.4
+Yemen,Middle East,maternal_mortality,118
+Yemen,Middle East,life_expectancy,68.2
+Afghanistan,South Asia,infant_mortality,42
+Afghanistan,South Asia,maternal_mortality,521
+Afghanistan,South Asia,life_expectancy,54.4
+Timor-Leste,East and Southeast Asia,infant_mortality,41.9
+Timor-Leste,East and Southeast Asia,maternal_mortality,192
+Timor-Leste,East and Southeast Asia,life_expectancy,70.5
+Sao Tome and Principe,Africa,infant_mortality,41.7
+Sao Tome and Principe,Africa,maternal_mortality,75
+Sao Tome and Principe,Africa,life_expectancy,67.7
+Sudan,Africa,infant_mortality,39.7
+Sudan,Africa,maternal_mortality,256
+Sudan,Africa,life_expectancy,67.8
+Eritrea,Africa,infant_mortality,39
+Eritrea,Africa,maternal_mortality,291
+Eritrea,Africa,life_expectancy,67.5
+Madagascar,Africa,infant_mortality,38.4
+Madagascar,Africa,maternal_mortality,445
+Madagascar,Africa,life_expectancy,68.8
+Eswatini,Africa,infant_mortality,38
+Eswatini,Africa,maternal_mortality,118
+Eswatini,Africa,life_expectancy,60.7
+Burundi,Africa,infant_mortality,35.3
+Burundi,Africa,maternal_mortality,392
+Burundi,Africa,life_expectancy,68.1
+Haiti,Central America and the Caribbean,infant_mortality,35
+Haiti,Central America and the Caribbean,maternal_mortality,328
+Haiti,Central America and the Caribbean,life_expectancy,65.6
+"Gambia, The",Africa,infant_mortality,35
+"Gambia, The",Africa,maternal_mortality,354
+"Gambia, The",Africa,life_expectancy,68.4
+Turkmenistan,Central Asia,infant_mortality,35
+Turkmenistan,Central Asia,maternal_mortality,5
+Turkmenistan,Central Asia,life_expectancy,72.4
+Togo,Africa,infant_mortality,34.5
+Togo,Africa,maternal_mortality,349
+Togo,Africa,life_expectancy,72.1
+Laos,East and Southeast Asia,infant_mortality,34.2
+Laos,East and Southeast Asia,maternal_mortality,112
+Laos,East and Southeast Asia,life_expectancy,69
+Zimbabwe,Africa,infant_mortality,32.8
+Zimbabwe,Africa,maternal_mortality,358
+Zimbabwe,Africa,life_expectancy,67.2
+Papua New Guinea,East and Southeast Asia,infant_mortality,31.3
+Papua New Guinea,East and Southeast Asia,maternal_mortality,189
+Papua New Guinea,East and Southeast Asia,life_expectancy,70.1
+Ethiopia,Africa,infant_mortality,31.3
+Ethiopia,Africa,maternal_mortality,195
+Ethiopia,Africa,life_expectancy,67.7
+Kiribati,Australia and Oceania,infant_mortality,30.8
+Kiribati,Australia and Oceania,maternal_mortality,80
+Kiribati,Australia and Oceania,life_expectancy,68.5
+Burma,East and Southeast Asia,infant_mortality,30.8
+Burma,East and Southeast Asia,maternal_mortality,185
+Burma,East and Southeast Asia,life_expectancy,70.3
+Ghana,Africa,infant_mortality,30.5
+Ghana,Africa,maternal_mortality,234
+Ghana,Africa,life_expectancy,70.1
+India,South Asia,infant_mortality,30.5
+India,South Asia,maternal_mortality,80
+India,South Asia,life_expectancy,68.2
+Senegal,Africa,infant_mortality,30.4
+Senegal,Africa,maternal_mortality,237
+Senegal,Africa,life_expectancy,70.6
+Zambia,Africa,infant_mortality,30.1
+Zambia,Africa,maternal_mortality,85
+Zambia,Africa,life_expectancy,66.9
+Mauritania,Africa,infant_mortality,29.9
+Mauritania,Africa,maternal_mortality,381
+Mauritania,Africa,life_expectancy,65.9
+"Congo, Republic of the",Africa,infant_mortality,29.9
+"Congo, Republic of the",Africa,maternal_mortality,241
+"Congo, Republic of the",Africa,life_expectancy,72.9
+Suriname,South America,infant_mortality,29.3
+Suriname,South America,maternal_mortality,84
+Suriname,South America,life_expectancy,72.7
+Malawi,Africa,infant_mortality,28.9
+Malawi,Africa,maternal_mortality,225
+Malawi,Africa,life_expectancy,73
+Tanzania,Africa,infant_mortality,28.4
+Tanzania,Africa,maternal_mortality,276
+Tanzania,Africa,life_expectancy,70.8
+Botswana,Africa,infant_mortality,27.8
+Botswana,Africa,maternal_mortality,155
+Botswana,Africa,life_expectancy,66.4
+Uganda,Africa,infant_mortality,27.5
+Uganda,Africa,maternal_mortality,170
+Uganda,Africa,life_expectancy,69.7
+Rwanda,Africa,infant_mortality,27.4
+Rwanda,Africa,maternal_mortality,229
+Rwanda,Africa,life_expectancy,66.6
+Cambodia,East and Southeast Asia,infant_mortality,27.2
+Cambodia,East and Southeast Asia,maternal_mortality,137
+Cambodia,East and Southeast Asia,life_expectancy,71.4
+Tuvalu,Australia and Oceania,infant_mortality,27.2
+Tuvalu,Australia and Oceania,maternal_mortality,170
+Tuvalu,Australia and Oceania,life_expectancy,69
+Namibia,Africa,infant_mortality,27.1
+Namibia,Africa,maternal_mortality,139
+Namibia,Africa,life_expectancy,65.9
+Kenya,Africa,infant_mortality,26.8
+Kenya,Africa,maternal_mortality,379
+Kenya,Africa,life_expectancy,70.4
+Gabon,Africa,infant_mortality,26
+Gabon,Africa,maternal_mortality,233
+Gabon,Africa,life_expectancy,70.4
+Kyrgyzstan,Central Asia,infant_mortality,24
+Kyrgyzstan,Central Asia,maternal_mortality,42
+Kyrgyzstan,Central Asia,life_expectancy,72.9
+Maldives,South Asia,infant_mortality,23.7
+Maldives,South Asia,maternal_mortality,32
+Maldives,South Asia,life_expectancy,77.4
+Guatemala,Central America and the Caribbean,infant_mortality,23.4
+Guatemala,Central America and the Caribbean,maternal_mortality,94
+Guatemala,Central America and the Caribbean,life_expectancy,73.5
+Nepal,South Asia,infant_mortality,23.4
+Nepal,South Asia,maternal_mortality,142
+Nepal,South Asia,life_expectancy,73
+Bhutan,South Asia,infant_mortality,23
+Bhutan,South Asia,maternal_mortality,47
+Bhutan,South Asia,life_expectancy,73.7
+Bolivia,South America,infant_mortality,22.1
+Bolivia,South America,maternal_mortality,146
+Bolivia,South America,life_expectancy,72.5
+Bangladesh,South Asia,infant_mortality,22
+Bangladesh,South Asia,maternal_mortality,115
+Bangladesh,South Asia,life_expectancy,75.2
+Cabo Verde,Africa,infant_mortality,21.9
+Cabo Verde,Africa,maternal_mortality,40
+Cabo Verde,Africa,life_expectancy,74.3
+Paraguay,South America,infant_mortality,21.4
+Paraguay,South America,maternal_mortality,58
+Paraguay,South America,life_expectancy,78.8
+Kosovo,Europe,infant_mortality,21
+Kosovo,Europe,maternal_mortality,NA
+Kosovo,Europe,life_expectancy,73.1
+Georgia,Central Asia,infant_mortality,20.9
+Georgia,Central Asia,maternal_mortality,20
+Georgia,Central Asia,life_expectancy,72.8
+Dominican Republic,Central America and the Caribbean,infant_mortality,20.8
+Dominican Republic,Central America and the Caribbean,maternal_mortality,124
+Dominican Republic,Central America and the Caribbean,life_expectancy,72.6
+Guyana,South America,infant_mortality,20.6
+Guyana,South America,maternal_mortality,75
+Guyana,South America,life_expectancy,72.4
+"Micronesia, Federated States of",Australia and Oceania,infant_mortality,20.4
+"Micronesia, Federated States of",Australia and Oceania,maternal_mortality,129
+"Micronesia, Federated States of",Australia and Oceania,life_expectancy,75
+Tajikistan,Central Asia,infant_mortality,20.3
+Tajikistan,Central Asia,maternal_mortality,14
+Tajikistan,Central Asia,life_expectancy,71.9
+Marshall Islands,Australia and Oceania,infant_mortality,20.1
+Marshall Islands,Australia and Oceania,maternal_mortality,155
+Marshall Islands,Australia and Oceania,life_expectancy,75.2
+South Africa,Africa,infant_mortality,19.7
+South Africa,Africa,maternal_mortality,118
+South Africa,Africa,life_expectancy,71.9
+Solomon Islands,Australia and Oceania,infant_mortality,18.6
+Solomon Islands,Australia and Oceania,maternal_mortality,123
+Solomon Islands,Australia and Oceania,life_expectancy,77.2
+Algeria,Africa,infant_mortality,18.6
+Algeria,Africa,maternal_mortality,62
+Algeria,Africa,life_expectancy,77.9
+Indonesia,East and Southeast Asia,infant_mortality,18.5
+Indonesia,East and Southeast Asia,maternal_mortality,140
+Indonesia,East and Southeast Asia,life_expectancy,73.6
+Philippines,East and Southeast Asia,infant_mortality,18.5
+Philippines,East and Southeast Asia,maternal_mortality,84
+Philippines,East and Southeast Asia,life_expectancy,70.8
+Iraq,Middle East,infant_mortality,18.3
+Iraq,Middle East,maternal_mortality,66
+Iraq,Middle East,life_expectancy,73.7
+Turkey (Turkiye),Middle East,infant_mortality,17.9
+Turkey (Turkiye),Middle East,maternal_mortality,15
+Turkey (Turkiye),Middle East,life_expectancy,76.7
+Morocco,Africa,infant_mortality,17.8
+Morocco,Africa,maternal_mortality,70
+Morocco,Africa,life_expectancy,74.2
+Uzbekistan,Central Asia,infant_mortality,17.6
+Uzbekistan,Central Asia,maternal_mortality,26
+Uzbekistan,Central Asia,life_expectancy,76.2
+"Saint Helena, Ascension, and Tristan da Cunha",Africa,infant_mortality,17.5
+"Saint Helena, Ascension, and Tristan da Cunha",Africa,maternal_mortality,NA
+"Saint Helena, Ascension, and Tristan da Cunha",Africa,life_expectancy,80.9
+Samoa,Australia and Oceania,infant_mortality,17.2
+Samoa,Australia and Oceania,maternal_mortality,101
+Samoa,Australia and Oceania,life_expectancy,75.7
+Egypt,Africa,infant_mortality,16.4
+Egypt,Africa,maternal_mortality,17
+Egypt,Africa,life_expectancy,75
+Honduras,Central America and the Caribbean,infant_mortality,15.4
+Honduras,Central America and the Caribbean,maternal_mortality,47
+Honduras,Central America and the Caribbean,life_expectancy,73.1
+Barbados,Central America and the Caribbean,infant_mortality,15.1
+Barbados,Central America and the Caribbean,maternal_mortality,35
+Barbados,Central America and the Caribbean,life_expectancy,79
+Cook Islands,Australia and Oceania,infant_mortality,14.8
+Cook Islands,Australia and Oceania,maternal_mortality,0
+Cook Islands,Australia and Oceania,life_expectancy,77.6
+"Korea, North",East and Southeast Asia,infant_mortality,14.7
+"Korea, North",East and Southeast Asia,maternal_mortality,67
+"Korea, North",East and Southeast Asia,life_expectancy,73.5
+Syria,Middle East,infant_mortality,14.7
+Syria,Middle East,maternal_mortality,20
+Syria,Middle East,life_expectancy,74.8
+Trinidad and Tobago,Central America and the Caribbean,infant_mortality,14.7
+Trinidad and Tobago,Central America and the Caribbean,maternal_mortality,54
+Trinidad and Tobago,Central America and the Caribbean,life_expectancy,76.5
+Jamaica,Central America and the Caribbean,infant_mortality,14.5
+Jamaica,Central America and the Caribbean,maternal_mortality,130
+Jamaica,Central America and the Caribbean,life_expectancy,76.3
+Gaza Strip,Middle East,infant_mortality,14.2
+Gaza Strip,Middle East,maternal_mortality,16
+Gaza Strip,Middle East,life_expectancy,75.5
+West Bank,Middle East,infant_mortality,14.2
+West Bank,Middle East,maternal_mortality,16
+West Bank,Middle East,life_expectancy,76.5
+Nicaragua,Central America and the Caribbean,infant_mortality,14.1
+Nicaragua,Central America and the Caribbean,maternal_mortality,60
+Nicaragua,Central America and the Caribbean,life_expectancy,74.7
+Vietnam,East and Southeast Asia,infant_mortality,13.8
+Vietnam,East and Southeast Asia,maternal_mortality,48
+Vietnam,East and Southeast Asia,life_expectancy,76.1
+Oman,Middle East,infant_mortality,13.6
+Oman,Middle East,maternal_mortality,13
+Oman,Middle East,life_expectancy,77.4
+Venezuela,South America,infant_mortality,13.6
+Venezuela,South America,maternal_mortality,227
+Venezuela,South America,life_expectancy,74.5
+Moldova,Europe,infant_mortality,13.5
+Moldova,Europe,maternal_mortality,19
+Moldova,Europe,life_expectancy,70.1
+Vanuatu,Australia and Oceania,infant_mortality,13.4
+Vanuatu,Australia and Oceania,maternal_mortality,100
+Vanuatu,Australia and Oceania,life_expectancy,75.7
+Antigua and Barbuda,Central America and the Caribbean,infant_mortality,13.3
+Antigua and Barbuda,Central America and the Caribbean,maternal_mortality,35
+Antigua and Barbuda,Central America and the Caribbean,life_expectancy,78.3
+Panama,Central America and the Caribbean,infant_mortality,13.2
+Panama,Central America and the Caribbean,maternal_mortality,37
+Panama,Central America and the Caribbean,life_expectancy,79.2
+British Virgin Islands,Central America and the Caribbean,infant_mortality,13
+British Virgin Islands,Central America and the Caribbean,maternal_mortality,NA
+British Virgin Islands,Central America and the Caribbean,life_expectancy,80.1
+Jordan,Middle East,infant_mortality,12.9
+Jordan,Middle East,maternal_mortality,31
+Jordan,Middle East,life_expectancy,76.5
+Brazil,South America,infant_mortality,12.7
+Brazil,South America,maternal_mortality,67
+Brazil,South America,life_expectancy,76.3
+Mexico,North America,infant_mortality,12.3
+Mexico,North America,maternal_mortality,42
+Mexico,North America,life_expectancy,74.6
+Saint Vincent and the Grenadines,Central America and the Caribbean,infant_mortality,12
+Saint Vincent and the Grenadines,Central America and the Caribbean,maternal_mortality,56
+Saint Vincent and the Grenadines,Central America and the Caribbean,life_expectancy,77.2
+Northern Mariana Islands,Australia and Oceania,infant_mortality,11.6
+Northern Mariana Islands,Australia and Oceania,maternal_mortality,NA
+Northern Mariana Islands,Australia and Oceania,life_expectancy,77.1
+Colombia,South America,infant_mortality,11.6
+Colombia,South America,maternal_mortality,59
+Colombia,South America,life_expectancy,74.9
+Tonga,Australia and Oceania,infant_mortality,11.5
+Tonga,Australia and Oceania,maternal_mortality,67
+Tonga,Australia and Oceania,life_expectancy,78
+Saudi Arabia,Middle East,infant_mortality,11.4
+Saudi Arabia,Middle East,maternal_mortality,7
+Saudi Arabia,Middle East,life_expectancy,77.2
+Mauritius,Africa,infant_mortality,11.4
+Mauritius,Africa,maternal_mortality,66
+Mauritius,Africa,life_expectancy,75.4
+Saint Lucia,Central America and the Caribbean,infant_mortality,11.3
+Saint Lucia,Central America and the Caribbean,maternal_mortality,44
+Saint Lucia,Central America and the Caribbean,life_expectancy,79.4
+Armenia,Central Asia,infant_mortality,11.3
+Armenia,Central Asia,maternal_mortality,19
+Armenia,Central Asia,life_expectancy,76.7
+Belize,Central America and the Caribbean,infant_mortality,11.3
+Belize,Central America and the Caribbean,maternal_mortality,67
+Belize,Central America and the Caribbean,life_expectancy,74.3
+Aruba,Central America and the Caribbean,infant_mortality,11.2
+Aruba,Central America and the Caribbean,maternal_mortality,NA
+Aruba,Central America and the Caribbean,life_expectancy,78.5
+Ecuador,South America,infant_mortality,11.2
+Ecuador,South America,maternal_mortality,55
+Ecuador,South America,life_expectancy,74.9
+Turks and Caicos Islands,Central America and the Caribbean,infant_mortality,10.8
+Turks and Caicos Islands,Central America and the Caribbean,maternal_mortality,NA
+Turks and Caicos Islands,Central America and the Caribbean,life_expectancy,81.3
+Albania,Europe,infant_mortality,10.8
+Albania,Europe,maternal_mortality,7
+Albania,Europe,life_expectancy,79.9
+Azerbaijan,Central Asia,infant_mortality,10.7
+Azerbaijan,Central Asia,maternal_mortality,18
+Azerbaijan,Central Asia,life_expectancy,75.9
+Guam,Australia and Oceania,infant_mortality,10.7
+Guam,Australia and Oceania,maternal_mortality,NA
+Guam,Australia and Oceania,life_expectancy,78
+Tunisia,Africa,infant_mortality,10.6
+Tunisia,Africa,maternal_mortality,36
+Tunisia,Africa,life_expectancy,77.3
+Peru,South America,infant_mortality,10.6
+Peru,South America,maternal_mortality,51
+Peru,South America,life_expectancy,68.9
+Palau,Australia and Oceania,infant_mortality,10.6
+Palau,Australia and Oceania,maternal_mortality,89
+Palau,Australia and Oceania,life_expectancy,75.2
+Dominica,Central America and the Caribbean,infant_mortality,10.5
+Dominica,Central America and the Caribbean,maternal_mortality,36
+Dominica,Central America and the Caribbean,life_expectancy,78.7
+Libya,Africa,infant_mortality,10.4
+Libya,Africa,maternal_mortality,59
+Libya,Africa,life_expectancy,77.7
+Seychelles,Africa,infant_mortality,10
+Seychelles,Africa,maternal_mortality,42
+Seychelles,Africa,life_expectancy,76.6
+El Salvador,Central America and the Caribbean,infant_mortality,10
+El Salvador,Central America and the Caribbean,maternal_mortality,39
+El Salvador,Central America and the Caribbean,life_expectancy,75.9
+Brunei,East and Southeast Asia,infant_mortality,9.8
+Brunei,East and Southeast Asia,maternal_mortality,36
+Brunei,East and Southeast Asia,life_expectancy,78.9
+Iran,Middle East,infant_mortality,9.7
+Iran,Middle East,maternal_mortality,16
+Iran,Middle East,life_expectancy,75.6
+Bahrain,Middle East,infant_mortality,9.6
+Bahrain,Middle East,maternal_mortality,17
+Bahrain,Middle East,life_expectancy,80.4
+American Samoa,Australia and Oceania,infant_mortality,9.5
+American Samoa,Australia and Oceania,maternal_mortality,NA
+American Samoa,Australia and Oceania,life_expectancy,75.8
+Fiji,Australia and Oceania,infant_mortality,9.4
+Fiji,Australia and Oceania,maternal_mortality,30
+Fiji,Australia and Oceania,life_expectancy,74.8
+Montserrat,Central America and the Caribbean,infant_mortality,9.4
+Montserrat,Central America and the Caribbean,maternal_mortality,NA
+Montserrat,Central America and the Caribbean,life_expectancy,76.1
+"Bahamas, The",Central America and the Caribbean,infant_mortality,9.2
+"Bahamas, The",Central America and the Caribbean,maternal_mortality,76
+"Bahamas, The",Central America and the Caribbean,life_expectancy,76.7
+Grenada,Central America and the Caribbean,infant_mortality,8.8
+Grenada,Central America and the Caribbean,maternal_mortality,48
+Grenada,Central America and the Caribbean,life_expectancy,76.3
+Mongolia,East and Southeast Asia,infant_mortality,8.6
+Mongolia,East and Southeast Asia,maternal_mortality,41
+Mongolia,East and Southeast Asia,life_expectancy,71.9
+Ukraine,Europe,infant_mortality,8.4
+Ukraine,Europe,maternal_mortality,15
+Ukraine,Europe,life_expectancy,70.5
+Greenland,North America,infant_mortality,8.3
+Greenland,North America,maternal_mortality,NA
+Greenland,North America,life_expectancy,74.5
+Cyprus,Europe,infant_mortality,7.9
+Cyprus,Europe,maternal_mortality,14
+Cyprus,Europe,life_expectancy,80.2
+Kazakhstan,Central Asia,infant_mortality,7.9
+Kazakhstan,Central Asia,maternal_mortality,10
+Kazakhstan,Central Asia,life_expectancy,73.3
+Saint Kitts and Nevis,Central America and the Caribbean,infant_mortality,7.9
+Saint Kitts and Nevis,Central America and the Caribbean,maternal_mortality,74
+Saint Kitts and Nevis,Central America and the Caribbean,life_expectancy,77.6
+Saint Pierre and Miquelon,North America,infant_mortality,7.6
+Saint Pierre and Miquelon,North America,maternal_mortality,NA
+Saint Pierre and Miquelon,North America,life_expectancy,81.8
+Sint Maarten,Central America and the Caribbean,infant_mortality,7.5
+Sint Maarten,Central America and the Caribbean,maternal_mortality,NA
+Sint Maarten,Central America and the Caribbean,life_expectancy,79.7
+Bulgaria,Europe,infant_mortality,7.5
+Bulgaria,Europe,maternal_mortality,6
+Bulgaria,Europe,life_expectancy,76.1
+Nauru,Australia and Oceania,infant_mortality,7.5
+Nauru,Australia and Oceania,maternal_mortality,273
+Nauru,Australia and Oceania,life_expectancy,68.6
+Curacao,Central America and the Caribbean,infant_mortality,7.4
+Curacao,Central America and the Caribbean,maternal_mortality,NA
+Curacao,Central America and the Caribbean,life_expectancy,79.9
+Argentina,South America,infant_mortality,7.4
+Argentina,South America,maternal_mortality,33
+Argentina,South America,life_expectancy,78.8
+Lebanon,Middle East,infant_mortality,7.3
+Lebanon,Middle East,maternal_mortality,15
+Lebanon,Middle East,life_expectancy,79.2
+Virgin Islands,Central America and the Caribbean,infant_mortality,7.2
+Virgin Islands,Central America and the Caribbean,maternal_mortality,NA
+Virgin Islands,Central America and the Caribbean,life_expectancy,80.7
+Cayman Islands,Central America and the Caribbean,infant_mortality,7.1
+Cayman Islands,Central America and the Caribbean,maternal_mortality,NA
+Cayman Islands,Central America and the Caribbean,life_expectancy,82.5
+Kuwait,Middle East,infant_mortality,7
+Kuwait,Middle East,maternal_mortality,8
+Kuwait,Middle East,life_expectancy,79.6
+Uruguay,South America,infant_mortality,6.9
+Uruguay,South America,maternal_mortality,15
+Uruguay,South America,life_expectancy,78.9
+North Macedonia,Europe,infant_mortality,6.8
+North Macedonia,Europe,maternal_mortality,3
+North Macedonia,Europe,life_expectancy,77.3
+Sri Lanka,South Asia,infant_mortality,6.8
+Sri Lanka,South Asia,maternal_mortality,18
+Sri Lanka,South Asia,life_expectancy,76.8
+Russia,Central Asia,infant_mortality,6.4
+Russia,Central Asia,maternal_mortality,9
+Russia,Central Asia,life_expectancy,72.3
+Costa Rica,Central America and the Caribbean,infant_mortality,6.3
+Costa Rica,Central America and the Caribbean,maternal_mortality,24
+Costa Rica,Central America and the Caribbean,life_expectancy,80.3
+Saint Martin,Central America and the Caribbean,infant_mortality,6.3
+Saint Martin,Central America and the Caribbean,maternal_mortality,NA
+Saint Martin,Central America and the Caribbean,life_expectancy,81
+Malaysia,East and Southeast Asia,infant_mortality,6.3
+Malaysia,East and Southeast Asia,maternal_mortality,26
+Malaysia,East and Southeast Asia,life_expectancy,76.6
+Saint Barthelemy,Central America and the Caribbean,infant_mortality,6.3
+Saint Barthelemy,Central America and the Caribbean,maternal_mortality,NA
+Saint Barthelemy,Central America and the Caribbean,life_expectancy,81
+Thailand,East and Southeast Asia,infant_mortality,6.2
+Thailand,East and Southeast Asia,maternal_mortality,34
+Thailand,East and Southeast Asia,life_expectancy,78.2
+Qatar,Middle East,infant_mortality,6.2
+Qatar,Middle East,maternal_mortality,4
+Qatar,Middle East,life_expectancy,80.3
+San Marino,Europe,infant_mortality,6.1
+San Marino,Europe,maternal_mortality,8
+San Marino,Europe,life_expectancy,84.2
+China,East and Southeast Asia,infant_mortality,6
+China,East and Southeast Asia,maternal_mortality,16
+China,East and Southeast Asia,life_expectancy,78.7
+Gibraltar,Europe,infant_mortality,5.9
+Gibraltar,Europe,maternal_mortality,NA
+Gibraltar,Europe,life_expectancy,80.9
+Puerto Rico,Central America and the Caribbean,infant_mortality,5.7
+Puerto Rico,Central America and the Caribbean,maternal_mortality,11
+Puerto Rico,Central America and the Caribbean,life_expectancy,82.1
+Faroe Islands,Europe,infant_mortality,5.6
+Faroe Islands,Europe,maternal_mortality,NA
+Faroe Islands,Europe,life_expectancy,81.7
+Romania,Europe,infant_mortality,5.3
+Romania,Europe,maternal_mortality,12
+Romania,Europe,life_expectancy,76.9
+Cuba,Central America and the Caribbean,infant_mortality,5.2
+Cuba,Central America and the Caribbean,maternal_mortality,35
+Cuba,Central America and the Caribbean,life_expectancy,80.1
+United States,North America,infant_mortality,5
+United States,North America,maternal_mortality,17
+United States,North America,life_expectancy,80.9
+Slovakia,Europe,infant_mortality,5
+Slovakia,Europe,maternal_mortality,4
+Slovakia,Europe,life_expectancy,77.2
+United Arab Emirates,Middle East,infant_mortality,4.9
+United Arab Emirates,Middle East,maternal_mortality,3
+United Arab Emirates,Middle East,life_expectancy,79.9
+New Caledonia,Australia and Oceania,infant_mortality,4.8
+New Caledonia,Australia and Oceania,maternal_mortality,NA
+New Caledonia,Australia and Oceania,life_expectancy,79.3
+Poland,Europe,infant_mortality,4.6
+Poland,Europe,maternal_mortality,2
+Poland,Europe,life_expectancy,76.7
+Malta,Europe,infant_mortality,4.6
+Malta,Europe,maternal_mortality,8
+Malta,Europe,life_expectancy,83.6
+Hungary,Europe,infant_mortality,4.6
+Hungary,Europe,maternal_mortality,12
+Hungary,Europe,life_expectancy,76
+Chile,South America,infant_mortality,4.5
+Chile,South America,maternal_mortality,10
+Chile,South America,life_expectancy,80.3
+Serbia,Europe,infant_mortality,4.4
+Serbia,Europe,maternal_mortality,11
+Serbia,Europe,life_expectancy,75.3
+Macau,East and Southeast Asia,infant_mortality,4.3
+Macau,East and Southeast Asia,maternal_mortality,NA
+Macau,East and Southeast Asia,life_expectancy,85.3
+French Polynesia,Australia and Oceania,infant_mortality,4.2
+French Polynesia,Australia and Oceania,maternal_mortality,NA
+French Polynesia,Australia and Oceania,life_expectancy,78.9
+Isle of Man,Europe,infant_mortality,4
+Isle of Man,Europe,maternal_mortality,NA
+Isle of Man,Europe,life_expectancy,82.5
+Wallis and Futuna,Australia and Oceania,infant_mortality,3.8
+Wallis and Futuna,Australia and Oceania,maternal_mortality,NA
+Wallis and Futuna,Australia and Oceania,life_expectancy,81.1
+Canada,North America,infant_mortality,3.8
+Canada,North America,maternal_mortality,12
+Canada,North America,life_expectancy,84.2
+Bosnia and Herzegovina,Europe,infant_mortality,3.8
+Bosnia and Herzegovina,Europe,maternal_mortality,6
+Bosnia and Herzegovina,Europe,life_expectancy,78.5
+Taiwan,East and Southeast Asia,infant_mortality,3.8
+Taiwan,East and Southeast Asia,maternal_mortality,NA
+Taiwan,East and Southeast Asia,life_expectancy,81.6
+Liechtenstein,Europe,infant_mortality,3.8
+Liechtenstein,Europe,maternal_mortality,NA
+Liechtenstein,Europe,life_expectancy,83
+Jersey,Europe,infant_mortality,3.7
+Jersey,Europe,maternal_mortality,NA
+Jersey,Europe,life_expectancy,83
+United Kingdom,Europe,infant_mortality,3.7
+United Kingdom,Europe,maternal_mortality,8
+United Kingdom,Europe,life_expectancy,82.2
+Netherlands,Europe,infant_mortality,3.6
+Netherlands,Europe,maternal_mortality,4
+Netherlands,Europe,life_expectancy,81.9
+Croatia,Europe,infant_mortality,3.4
+Croatia,Europe,maternal_mortality,3
+Croatia,Europe,life_expectancy,77.7
+Greece,Europe,infant_mortality,3.4
+Greece,Europe,maternal_mortality,5
+Greece,Europe,life_expectancy,81.9
+New Zealand,Australia and Oceania,infant_mortality,3.3
+New Zealand,Australia and Oceania,maternal_mortality,7
+New Zealand,Australia and Oceania,life_expectancy,82.9
+Andorra,Europe,infant_mortality,3.3
+Andorra,Europe,maternal_mortality,11
+Andorra,Europe,life_expectancy,83.8
+Guernsey,Europe,infant_mortality,3.2
+Guernsey,Europe,maternal_mortality,NA
+Guernsey,Europe,life_expectancy,83.6
+Austria,Europe,infant_mortality,3.2
+Austria,Europe,maternal_mortality,6
+Austria,Europe,life_expectancy,82.7
+Ireland,Europe,infant_mortality,3.2
+Ireland,Europe,maternal_mortality,4
+Ireland,Europe,life_expectancy,82
+France,Europe,infant_mortality,3.1
+France,Europe,maternal_mortality,7
+France,Europe,life_expectancy,82.6
+Montenegro,Europe,infant_mortality,3.1
+Montenegro,Europe,maternal_mortality,6
+Montenegro,Europe,life_expectancy,78.2
+Luxembourg,Europe,infant_mortality,3.1
+Luxembourg,Europe,maternal_mortality,12
+Luxembourg,Europe,life_expectancy,83.4
+Denmark,Europe,infant_mortality,3.1
+Denmark,Europe,maternal_mortality,4
+Denmark,Europe,life_expectancy,82.1
+Australia,Australia and Oceania,infant_mortality,3
+Australia,Australia and Oceania,maternal_mortality,2
+Australia,Australia and Oceania,life_expectancy,83.5
+Switzerland,Europe,infant_mortality,3
+Switzerland,Europe,maternal_mortality,5
+Switzerland,Europe,life_expectancy,83.9
+Belgium,Europe,infant_mortality,3
+Belgium,Europe,maternal_mortality,4
+Belgium,Europe,life_expectancy,82.3
+Germany,Europe,infant_mortality,3
+Germany,Europe,maternal_mortality,4
+Germany,Europe,life_expectancy,81.9
+Italy,Europe,infant_mortality,3
+Italy,Europe,maternal_mortality,6
+Italy,Europe,life_expectancy,83
+Anguilla,Central America and the Caribbean,infant_mortality,2.9
+Anguilla,Central America and the Caribbean,maternal_mortality,NA
+Anguilla,Central America and the Caribbean,life_expectancy,82.6
+Israel,Middle East,infant_mortality,2.6
+Israel,Middle East,maternal_mortality,2
+Israel,Middle East,life_expectancy,83.1
+Lithuania,Europe,infant_mortality,2.5
+Lithuania,Europe,maternal_mortality,8
+Lithuania,Europe,life_expectancy,76.1
+Czechia,Europe,infant_mortality,2.5
+Czechia,Europe,maternal_mortality,3
+Czechia,Europe,life_expectancy,78.6
+Hong Kong,East and Southeast Asia,infant_mortality,2.4
+Hong Kong,East and Southeast Asia,maternal_mortality,NA
+Hong Kong,East and Southeast Asia,life_expectancy,84
+Portugal,Europe,infant_mortality,2.4
+Portugal,Europe,maternal_mortality,15
+Portugal,Europe,life_expectancy,81.9
+Spain,Europe,infant_mortality,2.4
+Spain,Europe,maternal_mortality,3
+Spain,Europe,life_expectancy,83
+Latvia,Europe,infant_mortality,2.4
+Latvia,Europe,maternal_mortality,19
+Latvia,Europe,life_expectancy,76.4
+Sweden,Europe,infant_mortality,2.2
+Sweden,Europe,maternal_mortality,4
+Sweden,Europe,life_expectancy,82.9
+"Korea, South",East and Southeast Asia,infant_mortality,2.2
+"Korea, South",East and Southeast Asia,maternal_mortality,4
+"Korea, South",East and Southeast Asia,life_expectancy,83.4
+Belarus,Europe,infant_mortality,2.1
+Belarus,Europe,maternal_mortality,1
+Belarus,Europe,life_expectancy,74.7
+Bermuda,North America,infant_mortality,2.1
+Bermuda,North America,maternal_mortality,NA
+Bermuda,North America,life_expectancy,82.5
+Estonia,Europe,infant_mortality,2
+Estonia,Europe,maternal_mortality,5
+Estonia,Europe,life_expectancy,78.4
+Finland,Europe,infant_mortality,1.9
+Finland,Europe,maternal_mortality,8
+Finland,Europe,life_expectancy,82.2
+Norway,Europe,infant_mortality,1.8
+Norway,Europe,maternal_mortality,1
+Norway,Europe,life_expectancy,82.9
+Japan,East and Southeast Asia,infant_mortality,1.8
+Japan,East and Southeast Asia,maternal_mortality,3
+Japan,East and Southeast Asia,life_expectancy,85.2
+Slovenia,Europe,infant_mortality,1.8
+Slovenia,Europe,maternal_mortality,3
+Slovenia,Europe,life_expectancy,82.2
+Monaco,Europe,infant_mortality,1.7
+Monaco,Europe,maternal_mortality,5
+Monaco,Europe,life_expectancy,89.8
+Iceland,Europe,infant_mortality,1.6
+Iceland,Europe,maternal_mortality,3
+Iceland,Europe,life_expectancy,84
+Singapore,East and Southeast Asia,infant_mortality,1.5
+Singapore,East and Southeast Asia,maternal_mortality,6
+Singapore,East and Southeast Asia,life_expectancy,86.7
